@@ -5,7 +5,6 @@
 
 int main()
     {
-
         char lower_case;
         char upper_case;
         scanf("%c",&lower_case);
