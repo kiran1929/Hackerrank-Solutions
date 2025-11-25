@@ -9,7 +9,6 @@ int area(int length, int width)
      }
 
 int main() {
-
     int length_input,width_input;
     scanf("%d %d",&length_input,&width_input);
     int area_of_rectangle=area(length_input,width_input);
