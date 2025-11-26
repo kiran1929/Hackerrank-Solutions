@@ -4,6 +4,7 @@
 #include <stdlib.h>
 
 int sumLastDigits(int a, int b)
+
     {
         int rem1,rem2;
         rem1=a%10;
@@ -13,6 +14,7 @@ int sumLastDigits(int a, int b)
     }
 
 int main() 
+
     {
         int input_1,input_2;
         scanf("%d %d",&input_1,&input_2);
