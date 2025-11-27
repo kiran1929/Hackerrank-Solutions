@@ -3,7 +3,8 @@
 #include <math.h>
 #include <stdlib.h>
 
-int main() {
+int main()
+{
   
     float num;
     scanf("%f",&num);
