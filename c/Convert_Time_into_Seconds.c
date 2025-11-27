@@ -22,7 +22,6 @@ Constraints
         return total_value;
     }
 
-
 int main() {
 
     int hours_input,minutes_input,seconds_input;
