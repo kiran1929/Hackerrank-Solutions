@@ -14,7 +14,6 @@ int sumLastDigits(int a, int b)
     }
 
 int main() 
-
     {
         int input_1,input_2;
         scanf("%d %d",&input_1,&input_2);
