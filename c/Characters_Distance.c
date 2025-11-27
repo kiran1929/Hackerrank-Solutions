@@ -19,10 +19,10 @@ Use ASCII arithmetic only*/
         return char2-char1;
     }
 int main() 
-{
-    char character1,character2;
-    scanf("%c %c",&character1,&character2);
-    int distance=dist(character1,character2);
-    printf("The distance between %c and %c is %d",character1,character2,distance);
-    return 0;
-}
+    {
+        char character1,character2;
+        scanf("%c %c",&character1,&character2);
+        int distance=dist(character1,character2);
+        printf("The distance between %c and %c is %d",character1,character2,distance);
+        return 0;
+    }
