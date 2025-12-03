@@ -8,7 +8,8 @@ int area(int length, int width)
          return length*width;
      }
 
-int main() 
+int main()
+
 {
     int length_input,width_input;
     scanf("%d %d",&length_input,&width_input);
