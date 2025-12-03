@@ -11,7 +11,8 @@ void split(int n)
         printf("%d %d %d",num1,num2,num3);
     }
 
-int main() 
+int main()
+
     {
         int number;
         scanf("%d",&number);
