@@ -5,7 +5,8 @@
 #include <limits.h>
 #include <float.h>
 
-int main() 
+int main()
+
     {
         printf("short: %d to %d\n",SHRT_MIN, SHRT_MAX);
       
