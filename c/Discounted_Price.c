@@ -8,7 +8,8 @@
         float discountedPrice = price - discountAmount;
         return discountedPrice;
     }
-int main() {
+int main() 
+{
     float price,percent;
     scanf("%f%f",&price,&percent);
     float amount=discounted(price,percent);
