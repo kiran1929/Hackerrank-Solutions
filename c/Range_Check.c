@@ -3,7 +3,8 @@
 #include <math.h>
 #include <stdlib.h>
 
-int main() {
+int main() 
+{
     int low,high,n;
     scanf("%d %d %d",&n,&low,&high);
     if(n<=high && n>=low){
