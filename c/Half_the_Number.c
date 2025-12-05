@@ -6,7 +6,6 @@
 int main()
 
 {
-  
     float num;
     scanf("%f",&num);
     float half=num/2;
