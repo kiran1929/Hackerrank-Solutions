@@ -3,8 +3,9 @@
 #include <math.h>
 #include <stdlib.h>
 
-int main() {
-float n;
+int main() 
+{
+    float n;
     scanf("%f",&n);
     int value=n;
     printf("Rounded Value = %d",value);
