@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-int main() {
-int n;
+int main()
+{
+    int n;
     scanf("%d",&n);
     int value=n&1;
     if(value==0){
@@ -10,6 +11,6 @@ int n;
     else
     {
         printf("Odd");
-    }    
+    }
     return 0;
 }
