@@ -14,7 +14,8 @@ int time_calculate(int hour) {
     }
 }
 
-int main() {
+int main() 
+{
     int hour_input, minute_input;
     scanf("%d %d", &hour_input, &minute_input);
 
