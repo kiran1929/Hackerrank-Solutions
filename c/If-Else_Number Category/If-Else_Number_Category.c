@@ -3,8 +3,6 @@
 
 int main() {
     int n,square;
-    // int a = 2|| 3|| 5|| 7|| 11;
-    // int b = 2|| 3|| 5|| 7|| 11;
     scanf("%d",&n);
     square=n*n;
     if ( (n%2==0 && n%3==0) && n%5!=0)
