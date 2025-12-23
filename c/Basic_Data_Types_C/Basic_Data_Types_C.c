@@ -6,7 +6,7 @@
 int main()
 
 {
-
+    
     int int_var;
     long long_var;
     char char_var;
