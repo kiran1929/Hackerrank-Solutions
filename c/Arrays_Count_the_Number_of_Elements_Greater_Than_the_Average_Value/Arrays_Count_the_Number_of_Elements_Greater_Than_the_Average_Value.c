@@ -15,6 +15,7 @@ int main(){
         sum+=arr[i];
     }
     double avg=(double)sum/n;
+    
     for (i = 0; i < n; i++){
         if (arr[i] > avg) {
             ++find;
