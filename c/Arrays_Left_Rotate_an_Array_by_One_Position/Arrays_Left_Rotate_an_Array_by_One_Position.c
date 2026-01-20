@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 void leftRotateByOne(int arr[], int n) {
     if (n <= 1) return;
 
