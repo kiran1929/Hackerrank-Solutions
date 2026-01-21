@@ -7,11 +7,13 @@ int main() {
     long long arr[n];
     long long sum = 0;
     
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < n; i++) 
+    {
         scanf("%lld", &arr[i]);
     }
     
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < n; i++) 
+    {
         sum += arr[i];
     }
     
